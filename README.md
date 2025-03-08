@@ -35,7 +35,7 @@ Here's a walkthrough of implemented required features:
 <img src='https://github.com/RaviTejaGattu1/flashquiz/blob/main/Walkthrough_compressed_v4.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
+GIF created with KAP
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
@@ -45,6 +45,7 @@ GIF created with ...
 
 Describe any challenges encountered while building the app.
 Designing solution took time but once its done, developing the rest went quick.
+KAP generated gifs are large in size and compressing them to upload on github requires additional time and work. 
 
 ## License
 
